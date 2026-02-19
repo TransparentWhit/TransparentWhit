@@ -13,7 +13,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.50.4-003B57?logo=sqlite)](https://www.sqlite.org/)
 ##### IDEs
 [![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-2025.3.2-000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.109.3-0078D4)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.109.4-0078D4)](https://code.visualstudio.com/)
 ##### Toolchains
 [![UniFFI](https://img.shields.io/badge/UniFFI-0.29.5-161616?logo=mozilla)](http://mozilla.github.io/uniffi-rs/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.3.1-02303A?logo=gradle)](https://gradle.org/)
@@ -47,3 +47,7 @@
 ![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TransparentWhit&show_icons=true&theme=transparent)
 
 ![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentWhit&layout=compact)
+
+## How to elegantly corrupt memory
+- In [`safe` Rust](https://github.com/Speykious/cve-rs)
+- In [Java](https://github.com/Lenni0451/Reflect)
