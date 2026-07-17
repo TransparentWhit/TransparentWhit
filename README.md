@@ -4,7 +4,6 @@
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-2025.11.24-7F7FFF?logo=endeavouros)](https://endeavouros.com/)
 [![Windows](https://img.shields.io/badge/Windows_11-_25H2-001968)](https://www.microsoft.com/windows/)
 [![Ubuntu](https://img.shields.io/badge/WSL_Ubuntu-24.04-E95420?logo=ubuntu)](https://ubuntu.com/)
-[![Alpine](https://img.shields.io/badge/WSL_Alpine-3.22.1-0D597F?logo=alpinelinux)](https://www.alpinelinux.org/)
 ![Smartsian](https://img.shields.io/badge/Smartisan-8.0.4-B21218)
 [![iPadOS](https://img.shields.io/badge/iPadOS-17.7.10-000000?logo=ios)](https://www.apple.com/os/ipados/)
 ##### Databases
@@ -13,7 +12,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.50.4-003B57?logo=sqlite)](https://www.sqlite.org/)
 ##### IDEs
 [![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-2025.3.2-000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.109.4-0078D4)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.129.0-0078D4)](https://code.visualstudio.com/)
 ##### Toolchains
 [![UniFFI](https://img.shields.io/badge/UniFFI-0.29.5-161616?logo=mozilla)](http://mozilla.github.io/uniffi-rs/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.3.1-02303A?logo=gradle)](https://gradle.org/)
@@ -30,14 +29,14 @@
 ##### Languages
 [![Java](https://img.shields.io/badge/Java-25-B07219)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.3.0-7F52FF?logo=kotlin)](https://kotlinlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-1.93.1-000000?logo=rust)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.97.1-000000?logo=rust)](https://www.rust-lang.org/)
 [![C++](https://img.shields.io/badge/C++-14-00599C?logo=cplusplus)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3.14.3-3776AB?logo=python)](https://www.python.org/)
 [![Typescript](https://img.shields.io/badge/Typescript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![WebGL](https://img.shields.io/badge/WebGL--990000?logo=webgl)](https://www.khronos.org/webgl/)
+[![WGSL](https://img.shields.io/badge/WGSL-00599B?logo=webgpu)](https://www.w3.org/TR/WGSL/)
 ##### Minecraft
 [![PrismLauncher](https://img.shields.io/badge/Prism_Launcher-10.0.2-DF6277)](https://prismlauncher.org/)
-[![PCL2CE](https://img.shields.io/badge/Plain_Craft_Launcher_Community_Edition-2.14.2-116FCD)](https://ce.pclc.cc/)
+[![PCL2CE](https://img.shields.io/badge/Plain_Craft_Launcher_Community_Edition-2.15.0-116FCD)](https://ce.pclc.cc/)
 [![FCL](https://img.shields.io/badge/Fold_Craft_Launcher-1.2.5.9-7798CE)](https://github.com/FCL-Team/FoldCraftLauncher)
 [![Simply Optimized](https://img.shields.io/badge/Simply_Optimized-1.21.11--3.1-000308)](https://modrinth.com/modpack/sop)
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.0-3A971E)](https://www.minecraft.net/about-minecraft)
@@ -47,7 +46,3 @@
 ![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TransparentWhit&show_icons=true&theme=transparent)
 
 ![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentWhit&layout=compact)
-
-## How to elegantly corrupt memory
-- In [`safe` Rust](https://github.com/Speykious/cve-rs)
-- In [Java](https://github.com/Lenni0451/Reflect)
