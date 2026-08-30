@@ -12,7 +12,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.50.4-003B57?logo=sqlite)](https://www.sqlite.org/)
 ##### IDEs
 [![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-2025.3.2-000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.129.0-0078D4)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.135.0-0078D4)](https://code.visualstudio.com/)
 ##### Toolchains
 [![UniFFI](https://img.shields.io/badge/UniFFI-0.29.5-161616?logo=mozilla)](http://mozilla.github.io/uniffi-rs/)
 [![Gradle](https://img.shields.io/badge/Gradle-9.3.1-02303A?logo=gradle)](https://gradle.org/)
@@ -20,8 +20,8 @@
 [![LLVM](https://img.shields.io/badge/LLVM-19.1.1-262D3A?logo=llvm)](https://llvm.org/)
 [![GraalVM](https://img.shields.io/badge/GraalVM-17.0.12_|_21.0.10_|_25.0.2-8EC9E6)](https://www.graalvm.org/)
 [![Dragonwell](https://img.shields.io/badge/Dragonwell-8.0.472_|_11.0.29-F44437)](https://dragonwell-jdk.io/)
-[![TeaVM](https://img.shields.io/badge/TeaVM-0.13.0-4582EC)](https://teavm.org/)
-[![CheerpJ](https://img.shields.io/badge/CheerpJ-4.2-FF7C00)](https://cheerpj.com/)
+[![TeaVM](https://img.shields.io/badge/TeaVM-0.15.0-4582EC)](https://teavm.org/)
+[![CheerpJ](https://img.shields.io/badge/CheerpJ-4.3-FF7C00)](https://cheerpj.com/)
 [![npm](https://img.shields.io/badge/npm-11.8.0-CB3837?logo=npm)](https://www.npmjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-24.13.1-5FA04E?logo=nodedotjs)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?logo=vite)](https://vite.dev/)
@@ -29,11 +29,11 @@
 ##### Languages
 [![Java](https://img.shields.io/badge/Java-25-B07219)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.3.0-7F52FF?logo=kotlin)](https://kotlinlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-1.97.1-000000?logo=rust)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.98.0-000000?logo=rust)](https://www.rust-lang.org/)
 [![C++](https://img.shields.io/badge/C++-14-00599C?logo=cplusplus)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3.14.3-3776AB?logo=python)](https://www.python.org/)
 [![Typescript](https://img.shields.io/badge/Typescript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![WGSL](https://img.shields.io/badge/WGSL-00599B?logo=webgpu)](https://www.w3.org/TR/WGSL/)
+[![WESL](https://img.shields.io/badge/WESL--FE7C26?logo=webgpu)](https://wesl-lang.dev/)
 ##### Minecraft
 [![PrismLauncher](https://img.shields.io/badge/Prism_Launcher-10.0.2-DF6277)](https://prismlauncher.org/)
 [![PCL2CE](https://img.shields.io/badge/Plain_Craft_Launcher_Community_Edition-2.15.0-116FCD)](https://ce.pclc.cc/)
@@ -43,6 +43,5 @@
 [![EaglercraftX](https://img.shields.io/badge/EaglercraftX-1.8_u53_|_1.12_u2-3A2A1A)](https://eaglercraft.com/)
 [![Minecraft Dungeons](https://img.shields.io/badge/Minecraft_Dungeons-1.17.0.0-FF791A)](https://www.minecraft.net/about-dungeons)
 
-![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TransparentWhit&show_icons=true&theme=transparent)
-
-![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentWhit&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TransparentWhit&hide_title=true&show_icons=true&include_all_commits=true&theme=graywhite)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=TransparentWhit&layout=compact&hide_title=true&langs_count=8&theme=graywhite)
